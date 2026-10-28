@@ -11,7 +11,7 @@ cask "monet" do
   end
 
   name "Monet"
-  desc "Local-first Markdown vault with an interactive graph, CLI and MCP server"
+  desc "One brain for you and your agents: a quiet, local-first Markdown vault"
   homepage "https://github.com/felipebarcelospro/monet"
 
   app "Monet.app"

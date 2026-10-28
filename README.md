@@ -1,5 +1,10 @@
 # Homebrew tap for Monet
 
+[Monet](https://github.com/felipebarcelospro/monet) — one brain for you and
+your agents. A quiet, local-first Markdown vault: a rich desktop app for the
+person thinking, and a CLI and MCP server for the agents helping. Your notes
+stay as plain `.md` files in a folder you own.
+
 ## Install
 
 The command line interface:

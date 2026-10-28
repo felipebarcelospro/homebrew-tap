@@ -1,5 +1,5 @@
 class Monet < Formula
-  desc "Command-line access to a local Monet Markdown vault"
+  desc "CLI and MCP server for your local Monet Markdown vault"
   homepage "https://github.com/felipebarcelospro/monet"
   license "MIT"
 
